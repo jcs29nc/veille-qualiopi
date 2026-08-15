@@ -246,3 +246,5 @@ Source : <https://www.fiphfp.fr/actualites-et-evenements/actualites/20-ans-du-fi
 ## Méthodologie et sources
 
 Veille réalisée le 15 août 2026 par recherche systématique sur les sources officielles et professionnelles : Légifrance / Journal Officiel, Ministère du Travail, France Compétences, Centre Inffo, Caisse des Dépôts (Mon Compte Formation), Agefiph, FIPHFP, ISTF, Les Acteurs de la Compétence. Chaque information est datée et accompagnée de l'URL de sa source. Note : période estivale oblige, peu de publications entre le 7 et le 15 août 2026 ; la période couverte a été élargie à juin-août pour cette première fiche.
+
+*Fiche générée et archivée automatiquement — veille Qualiopi critère 6.*
